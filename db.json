@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "This is my First Stream",
+      "id": 1
+    },
+    {
+      "title": "Second Day",
+      "description": "Exploring this keyword",
+      "id": 2
+    },
+    {
+      "title": "Second Day",
+      "description": "Exploring this keyword",
+      "id": 3
+    },
+    {
+      "title": "New Stream",
+      "description": "I have created this Stream",
+      "userId": "107415661041055265747",
+      "id": 4
+    },
+    {
+      "title": "New Stream",
+      "description": "I have created this Streamssssssssssssssssss",
+      "id": 5
+    },
+    {
+      "title": "ffwe",
+      "description": "fwefw",
+      "userId": "107415661041055265747",
+      "id": 6
+    }
+  ]
+}
